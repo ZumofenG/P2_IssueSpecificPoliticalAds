@@ -1,5 +1,6 @@
 # P2_IssueSpecificPoliticalAds
 Project developed in collaboration with Dr. Marlène Gerber in 2018 for the **Special Issue Swiss national elections 2015**
+ Goal is to measure the effect of issue-specific political ads on vote behavior during the election campaign. It merges data specifically collected for the Special issue, and data from Année Politique Suisse (APS).
 ### Title
 Effects of Issue-Specific Political Advertisements in the 2015 Parliamentary Elections of Switzerland
 ### Abstract
